@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&width=435&lines=I'm+a+Passionate+Learner.;Coding+Enthusiast.;Learning+Full+Stack!;Great+in+problem+solving.;Love+to+explore...)](https://git.io/typing-svg)
 
 
-## 🙋‍♂️ About Me
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 

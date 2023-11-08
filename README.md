@@ -2,11 +2,10 @@
 <a href="#"><img width="30%" height="auto" src="Right_Side.gif" height="175px"/></a>
 </p>
     
+[![An image of @priyanshu9241's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu9241)](https://holopin.io/@priyanshu9241)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu</h1>
 <!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
-[![An image of @priyanshu9241's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu9241)](https://holopin.io/@priyanshu9241)
-
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=4FA5F7&size=22&lines=I'm+a+passionate+learner.;Coding+Enthusiast.;Love+to+explore.;Good+in+problem+solving.)](https://git.io/typing-svg) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&width=435&lines=I'm+a+Passionate+Learner.;Coding+Enthusiast.;Learning+Full+Stack!;Great+in+problem+solving.;Love+to+explore...)](https://git.io/typing-svg)

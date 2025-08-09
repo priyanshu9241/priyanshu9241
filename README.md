@@ -46,7 +46,7 @@
     <a href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="48" height="48"/> </a>
 <!--     <a><img src="https://www.pngall.com/wp-content/uploads/5/Vertical-Line-PNG-Images.png" alt="-><-" width="48" height="48"> </a> -->
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/> </a>
-    <a href="https://visualstudio.com/" target="_blank"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/99667060-fb36-4298-9982-0045a5d48a53" alt="VS" width="48" height="48"/></a>
+    <a href="https://visualstudio.com/" target="_blank"><img src="https://github.com/user-attachments/assets/99667060-fb36-4298-9982-0045a5d48a53" alt="VS" width="48" height="48"/></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://i.postimg.cc/vxm5p0DK/pngwing-com.png" alt="Intelli J" width="48" height="48"/> </a>
     <br>
      <a href="https://www.debian.org/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt="linux" width="48" height="48"/> </a>

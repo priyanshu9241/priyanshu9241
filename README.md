@@ -5,19 +5,17 @@
 [![An image of @priyanshu9241's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu9241)](https://holopin.io/@priyanshu9241)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu</h1>
-<!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=4FA5F7&size=22&lines=I'm+a+passionate+learner.;Coding+Enthusiast.;Love+to+explore.;Good+in+problem+solving.)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&width=435&lines=I'm+a+Passionate+Learner.;Coding+Enthusiast.;Learning+Full+Stack!;Great+in+problem+solving.;Love+to+explore...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&width=435&lines=I'm+a+Passionate+Learner.;Coding+Enthusiast.;C++&C# specialist;Great+in+problem+solving.;Love+to+explore...)](https://git.io/typing-svg)
 
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-- 🔭 I’m currently working on **Problem Solving Skills**
+- 🔭 I’m currently working on optimising the  **C++ and C#** code to build scalable microservices and windows desktop application.
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Advanced conceps of C++ memory and threads**.
 
-- 👯 I’m looking to collaborate on **Opensource Projects**
+- 🥼 I have worked on advcancmed full stack applications with an scalable microservices  **Opensource Projects**
 
 <!-- - - 👨‍💻 All of my projects are available at **[My Portfolio]** -->
 
@@ -37,7 +35,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>-->
-    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> -->
     <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> -->
     <!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> -->
@@ -48,6 +46,7 @@
     <a href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="48" height="48"/> </a>
 <!--     <a><img src="https://www.pngall.com/wp-content/uploads/5/Vertical-Line-PNG-Images.png" alt="-><-" width="48" height="48"> </a> -->
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/> </a>
+    <a href="https://visualstudio.com/" target="_blank"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/99667060-fb36-4298-9982-0045a5d48a53" alt="VS" width="48" height="48"/></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://i.postimg.cc/vxm5p0DK/pngwing-com.png" alt="Intelli J" width="48" height="48"/> </a>
     <br>
      <a href="https://www.debian.org/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt="linux" width="48" height="48"/> </a>
